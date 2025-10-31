@@ -1,7 +1,7 @@
 # About Me:
 👋 Hey there! I'm Hudson.<br><br>I'm passionate about making technology work smarter, not harder. Currently diving into the world of IT!<br><br>🛠️ What I work with:<br><br>Languages: Python | YAML | Markdown<br>Interests: FOSS, AI/ML, Automation<br>Home Lab: Home Assistant enthusiast - always automating something new!<br><br>🌱 Currently learning:<br><br>Networking fundamentals (CCNA)<br>Expanding my programming skills into more advanced languages<br>Exploring AI tools and integrations<br><br>💡 What drives me:<br><br>FOSS Philosophy - Open, collaborative technology for the benefit of all<br>Efficiency & Automation -  Thoughtful automation where it adds value<br>Clean, Beautiful Interfaces - Function meets form<br>Continuous Learning - Every day is a chance to grow<br><br>🔍 What you'll find here:<br>My repos reflect my curiosity. One day I am learning about HASS automations, next I am writing a web app that calculates Fast Fourier transform.
 
-
+[![An image of @hudsonthomas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hudsonthomas)](https://holopin.io/@hudsonthomas)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github@hudsont.au) 
 
